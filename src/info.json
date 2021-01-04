@@ -1,0 +1,131 @@
+{
+    "navbar":[
+        {
+            "title":"首頁",
+            "device":"m & w"
+        },
+        {
+            "title":"關於我們",
+            "device":"m & w"
+        },
+        {
+            "title":"活動消息",
+            "device":"m & w"
+        },
+        {
+            "title":"參加發行公司",
+            "device":"m"
+        },
+        {
+            "title":"統計專區",
+            "device":"w"
+        },
+        {
+            "title":"Q & A",
+            "device":"m & w"
+        },
+        {
+            "title":"聯絡我們",
+            "device":"m & w"
+        },
+        {
+            "title":"登入",
+            "device":"m & w"        
+        }
+    ],
+    "client":[
+        {
+            "guest":"一般股東"
+        },
+        {
+            "guest":"發行公司，股務代理機構"
+        },
+        {
+            "guest":"專業機構法人"           
+        }
+    ],
+    "stock_member":[
+        {
+            "stk_no_name":"6702 復興航空",
+            "stk_date":"106/01/11",
+            "vote_period":"105/1/27 ~ 106/01/08",
+            "clientship":"群益金鼎證券",
+            "phone":"(02)2703-500"
+        },
+        {
+            "stk_no_name":"6702 復興航空",
+            "stk_date":"106/01/11",
+            "vote_period":"105/1/27 ~ 106/01/08",
+            "clientship":"群益金鼎證券",
+            "phone":"(02)2703-500"
+        },
+        {
+            "stk_no_name":"6702 復興航空",
+            "stk_date":"106/01/11",
+            "vote_period":"105/1/27 ~ 106/01/08",
+            "clientship":"群益金鼎證券",
+            "phone":"(02)2703-500"
+        },
+        {
+            "stk_no_name":"6702 復興航空",
+            "stk_date":"106/01/11",
+            "vote_period":"105/1/27 ~ 106/01/08",
+            "clientship":"群益金鼎證券",
+            "phone":"(02)2703-500"
+        },
+        {
+            "stk_no_name":"6702 復興航空",
+            "stk_date":"106/01/11",
+            "vote_period":"105/1/27 ~ 106/01/08",
+            "clientship":"群益金鼎證券",
+            "phone":"(02)2703-500"           
+        }
+    ],
+    "activeItem":[
+        {
+            "key":0,
+            "content":[   
+                    {
+                        "title":"一般股東"
+                    }
+            ]
+        },
+        {
+            "key":1,
+            "content":[
+                {
+                    "title":"發行公司 •"
+                },
+                {
+                    "title":"股務代理機構"
+                }
+            ]
+        },
+        {
+            "key":2,
+            "content":[
+                {
+                    "title":"專業機構法人"
+                }
+            ]
+        }
+        
+        
+        
+    ],
+    "banner":[
+        {"title":"公開資訊觀測站"},
+        {"title":"股東會法規查詢"},
+        {"title":"股務機構查詢"},
+        {"title":"股東e票通App安裝"},
+        {"title":"股東電子會投票專區"},
+        {"title":"股東e票通抽獎活動"}
+    ],
+    "relativeWeb":[
+        {"title":"金融監督管理委員會"},
+        {"title":"台灣證券交易所"},
+        {"title":"台灣期貨交易所"},
+        {"title":"證券櫃檯買賣中心"},
+        {"title":"台灣集保結算所"}
+    ]
+}
