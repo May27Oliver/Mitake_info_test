@@ -169,7 +169,7 @@ class header extends Component {
     constructor(){
         super();
         this.state={
-            showNbar:true
+            showNbar:false
         }
     }
     showNavbar=()=>{
