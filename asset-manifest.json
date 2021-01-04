@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mitake_info_test/static/css/main.00b2210e.chunk.css",
+    "main.js": "/Mitake_info_test/static/js/main.ad00a820.chunk.js",
+    "main.js.map": "/Mitake_info_test/static/js/main.ad00a820.chunk.js.map",
+    "runtime-main.js": "/Mitake_info_test/static/js/runtime-main.934768e2.js",
+    "runtime-main.js.map": "/Mitake_info_test/static/js/runtime-main.934768e2.js.map",
+    "static/js/2.dcd0a3ac.chunk.js": "/Mitake_info_test/static/js/2.dcd0a3ac.chunk.js",
+    "static/js/2.dcd0a3ac.chunk.js.map": "/Mitake_info_test/static/js/2.dcd0a3ac.chunk.js.map",
+    "index.html": "/Mitake_info_test/index.html",
+    "static/css/main.00b2210e.chunk.css.map": "/Mitake_info_test/static/css/main.00b2210e.chunk.css.map",
+    "static/js/2.dcd0a3ac.chunk.js.LICENSE.txt": "/Mitake_info_test/static/js/2.dcd0a3ac.chunk.js.LICENSE.txt",
+    "static/media/bsi-with-anab.1ffe8991.jpg": "/Mitake_info_test/static/media/bsi-with-anab.1ffe8991.jpg",
+    "static/media/imageLoad.b7337590.jpg": "/Mitake_info_test/static/media/imageLoad.b7337590.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.934768e2.js",
+    "static/js/2.dcd0a3ac.chunk.js",
+    "static/css/main.00b2210e.chunk.css",
+    "static/js/main.ad00a820.chunk.js"
+  ]
+}
